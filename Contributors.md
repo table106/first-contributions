@@ -2065,6 +2065,7 @@ Darien Edwards
 - [Alish-0x](https://github.com/Alish-0x)
 - [Ranjodh Singh](https://github.com/ranjodhsingh1729)
 - [fikrirazor](https://github.com/fikrirazor)
+- [table106](https://github.com/table106)
 - [SWanHK](https://github.com/swanhk)
 - [tcadieux](https://github.com/tcadieux)
 - [Yoshiki Shinonome](https://github.com/generaldai)
